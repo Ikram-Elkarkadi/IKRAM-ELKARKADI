@@ -2,7 +2,7 @@
 
 <!-- Custom Animated Hero Banner -->
 <a href="https://ikram-elkarkadi.github.io" target="_blank">
-  <img src="https://ikram-elkarkadi.github.io/assets/hero-banner.svg?v=2" width="100%" alt="Ikram Elkarkadi — Data Science & AI"/>
+  <img src="https://ikram-elkarkadi.github.io/assets/hero-banner.svg?v=3" width="100%" alt="Ikram Elkarkadi — Data Science & AI"/>
 </a>
 
 <br/><br/>
@@ -25,7 +25,7 @@
 
 <!-- Clickable Interactive Portfolio & Terminal Preview -->
 <a href="https://ikram-elkarkadi.github.io" target="_blank">
-  <img src="https://ikram-elkarkadi.github.io/assets/portfolio-card.svg?v=2" width="100%" alt="Launch Interactive Portfolio"/>
+  <img src="https://ikram-elkarkadi.github.io/assets/portfolio-card.svg?v=3" width="100%" alt="Launch Interactive Portfolio"/>
 </a>
 
 </div>
@@ -35,24 +35,27 @@
 ### ⚡ Interactive Profile Explorer *(Click any section to expand)*
 
 <details open>
-<summary><b>📊 Core Competencies & Tech Stack Dashboard</b></summary>
+<summary><b>🚀 Representative Projects & Measurable Impact</b></summary>
 <br/>
 <div align="center">
-  <img src="https://ikram-elkarkadi.github.io/assets/skills-dashboard.svg?v=2" width="100%" alt="Skills Dashboard"/>
+  <a href="https://ikram-elkarkadi.github.io/#projects" target="_blank">
+    <img src="https://ikram-elkarkadi.github.io/assets/projects-showcase.svg?v=3" width="100%" alt="Projects Showcase"/>
+  </a>
 </div>
+<br/>
+
+- **📊 [Student Performance Analysis](https://github.com/Ikram-Elkarkadi/python-data-analysis)** — UCI Dataset EDA, feature correlation & 5 ML classifiers (`Random Forest: 89%`, `SVM: 86%`, `Decision Tree: 82%`).
+- **🏢 [Menara Intel Master](https://ikram-elkarkadi.github.io/#projects)** — Full-stack real estate intelligence platform built @ **Ménara Holding** (`-40%` SQL query latency).
+- **📋 [Attendance & Live Data Lab](https://ikram-elkarkadi.github.io/#datalab)** — Automated PDF reporting + interactive **Student Grade Predictor** powered by Chart.js.
+
 </details>
 
 <details open>
-<summary><b>🚀 Featured Projects & Case Studies</b></summary>
+<summary><b>📊 Core Competencies & Tech Stack Dashboard</b></summary>
 <br/>
-
-| Project | Domain | Stack | Action |
-| :--- | :--- | :--- | :--- |
-| **📊 Student Performance Analysis** | EDA & Predictive ML (`89%` Random Forest) | `Python` `Scikit-learn` `Pandas` `Seaborn` | [View Code ↗](https://github.com/Ikram-Elkarkadi/python-data-analysis) |
-| **🏢 Menara Intel Master** | Full-Stack Real Estate Intelligence | `PHP` `Laravel` `MySQL` `Chart.js` | [Open Details ↗](https://ikram-elkarkadi.github.io/#projects) |
-| **📋 Attendance Management System** | Automated Tracking & PDF Reports | `Python` `SQL` `Automation` | [Open Details ↗](https://ikram-elkarkadi.github.io/#projects) |
-| **🌐 Interactive AI Portfolio** | Live Terminal & Grade Simulator | `HTML5` `CSS3` `JavaScript` `Chart.js` | [Launch App ↗](https://ikram-elkarkadi.github.io) |
-
+<div align="center">
+  <img src="https://ikram-elkarkadi.github.io/assets/skills-dashboard.svg?v=3" width="100%" alt="Skills Dashboard"/>
+</div>
 </details>
 
 <details>
