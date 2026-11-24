@@ -2,7 +2,7 @@
 
 <!-- Custom Animated Hero Banner -->
 <a href="https://ikram-elkarkadi.github.io" target="_blank">
-  <img src="https://ikram-elkarkadi.github.io/assets/hero-banner.svg?v=4" width="100%" alt="Ikram Elkarkadi — Data Science & AI"/>
+  <img src="https://ikram-elkarkadi.github.io/assets/hero-banner.svg?v=5" width="100%" alt="Ikram Elkarkadi — Data Science & AI"/>
 </a>
 
 <br/><br/>
