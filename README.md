@@ -53,7 +53,8 @@
 <br/>
 
 - **📊 [Student Performance Analysis](https://github.com/Ikram-Elkarkadi/python-data-analysis)** — UCI Dataset EDA, feature correlation & 5 ML classifiers (`Random Forest: 89%`, `SVM: 86%`, `Decision Tree: 82%`).
-- **🏢 [Ménara Holding](https://ikram-elkarkadi.github.io/#projects)** — Full-stack real estate intelligence platform built @ **Ménara Holding** (`-40%` SQL query latency).
+- **🤖 [Student Performance ML App](https://github.com/Ikram-Elkarkadi/student-performance-ml-app)** — Reproducible Scikit-learn `Pipeline` + interactive **Streamlit** dashboard + `pytest` unit tests.
+- **🏢 [Ménara Holding](https://ikram-elkarkadi.github.io/#projects)** — Full-stack real estate intelligence platform (`-40%` SQL query latency).
 - **📋 [Attendance & Live Data Lab](https://ikram-elkarkadi.github.io/#datalab)** — Automated PDF reporting + interactive **Student Grade Predictor** powered by Chart.js.
 
 </details>
