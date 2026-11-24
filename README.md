@@ -2,12 +2,12 @@
 
 <!-- Custom Animated Hero Banner -->
 <a href="https://ikram-elkarkadi.github.io" target="_blank">
-  <img src="https://ikram-elkarkadi.github.io/assets/hero-banner.svg?v=3" width="100%" alt="Ikram Elkarkadi — Data Science & AI"/>
+  <img src="https://ikram-elkarkadi.github.io/assets/hero-banner.svg?v=4" width="100%" alt="Ikram Elkarkadi — Data Science & AI"/>
 </a>
 
 <br/><br/>
 
-<!-- Action Badges -->
+<!-- Interactive Action Badges -->
 <p>
   <a href="https://ikram-elkarkadi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Interactive_Portfolio-Launch_Live-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1120" alt="Portfolio"/>
@@ -25,7 +25,7 @@
 
 <!-- Clickable Interactive Portfolio & Terminal Preview -->
 <a href="https://ikram-elkarkadi.github.io" target="_blank">
-  <img src="https://ikram-elkarkadi.github.io/assets/portfolio-card.svg?v=3" width="100%" alt="Launch Interactive Portfolio"/>
+  <img src="https://ikram-elkarkadi.github.io/assets/portfolio-card.svg?v=4" width="100%" alt="Launch Interactive Portfolio"/>
 </a>
 
 </div>
@@ -35,11 +35,19 @@
 ### ⚡ Interactive Profile Explorer *(Click any section to expand)*
 
 <details open>
+<summary><b>🔬 End-to-End Data Science Methodology</b></summary>
+<br/>
+<div align="center">
+  <img src="https://ikram-elkarkadi.github.io/assets/pipeline.svg?v=4" width="100%" alt="End-to-End Data Science Methodology"/>
+</div>
+</details>
+
+<details open>
 <summary><b>🚀 Representative Projects & Measurable Impact</b></summary>
 <br/>
 <div align="center">
   <a href="https://ikram-elkarkadi.github.io/#projects" target="_blank">
-    <img src="https://ikram-elkarkadi.github.io/assets/projects-showcase.svg?v=3" width="100%" alt="Projects Showcase"/>
+    <img src="https://ikram-elkarkadi.github.io/assets/projects-showcase.svg?v=4" width="100%" alt="Projects Showcase"/>
   </a>
 </div>
 <br/>
@@ -54,8 +62,22 @@
 <summary><b>📊 Core Competencies & Tech Stack Dashboard</b></summary>
 <br/>
 <div align="center">
-  <img src="https://ikram-elkarkadi.github.io/assets/skills-dashboard.svg?v=3" width="100%" alt="Skills Dashboard"/>
+  <img src="https://ikram-elkarkadi.github.io/assets/skills-dashboard.svg?v=4" width="100%" alt="Skills Dashboard"/>
 </div>
+</details>
+
+<details>
+<summary><b>🤖 ML Model Benchmarks (Student Performance Study)</b></summary>
+<br/>
+
+| Algorithm | Accuracy | Role in Pipeline |
+| :--- | :---: | :--- |
+| **Random Forest Classifier** | **`89%`** | Best ensemble model — captures non-linear study & prior-grade interactions |
+| **Support Vector Machine (SVM)** | `86%` | Strong margin-based baseline on scaled features |
+| **Decision Tree Classifier** | `82%` | Interpretable rule extraction for academic advisors |
+| **K-Nearest Neighbors (KNN)** | `80%` | Distance-based peer performance comparison |
+| **Logistic Regression** | `78%` | Linear baseline benchmark |
+
 </details>
 
 <details>
