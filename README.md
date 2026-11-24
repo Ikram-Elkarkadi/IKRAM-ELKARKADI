@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- Custom Animated Hero Banner -->
 <a href="https://ikram-elkarkadi.github.io" target="_blank">
@@ -53,7 +53,7 @@
 <br/>
 
 - **📊 [Student Performance Analysis](https://github.com/Ikram-Elkarkadi/python-data-analysis)** — UCI Dataset EDA, feature correlation & 5 ML classifiers (`Random Forest: 89%`, `SVM: 86%`, `Decision Tree: 82%`).
-- **🏢 [Menara Intel Master](https://ikram-elkarkadi.github.io/#projects)** — Full-stack real estate intelligence platform built @ **Ménara Holding** (`-40%` SQL query latency).
+- **🏢 [Ménara Holding](https://ikram-elkarkadi.github.io/#projects)** — Full-stack real estate intelligence platform built @ **Ménara Holding** (`-40%` SQL query latency).
 - **📋 [Attendance & Live Data Lab](https://ikram-elkarkadi.github.io/#datalab)** — Automated PDF reporting + interactive **Student Grade Predictor** powered by Chart.js.
 
 </details>
@@ -86,7 +86,7 @@
 
 - **🎓 Bachelor in Data Science (SD)** — *EST Kelaâ des Sraghna · Université Cadi Ayyad (2024 – Present)*
 - **💼 Data & Web Developer Intern** — *Ménara Holding · Marrakech (Summer 2024)*
-  - Engineered **Menara Intel Master**, a full-stack real estate analytics & BI web application
+  - Engineered **Ménara Holding**, a full-stack real estate analytics & BI web application
   - Optimized SQL database queries, cutting page load latency by **40%**
 - **🎓 DUT in Data Engineering** — *EST Kelaâ des Sraghna · Université Cadi Ayyad (2022 – 2024)*
 
