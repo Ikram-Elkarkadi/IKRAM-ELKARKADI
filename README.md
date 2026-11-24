@@ -12,6 +12,9 @@
   <a href="https://ikram-elkarkadi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Interactive_Portfolio-Launch_Live-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1120" alt="Portfolio"/>
   </a>
+  <a href="https://ikram-elkarkadi.github.io/presenter.html" target="_blank">
+    <img src="https://img.shields.io/badge/🎙️_Voice_Pitch_Studio-Live_Presenter-F72585?style=for-the-badge&labelColor=0B1120" alt="Voice Pitch Studio"/>
+  </a>
   <a href="https://ikram-elkarkadi.github.io/#datalab" target="_blank">
     <img src="https://img.shields.io/badge/Live_ML_Simulator-Try_Now-6366F1?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0B1120" alt="ML Simulator"/>
   </a>
